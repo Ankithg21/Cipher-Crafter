@@ -12,4 +12,4 @@ This is a React.js and Tailwind CSS based Password Generator that allows users t
 
 # Tech Stack:
 1. React.js – Provides a dynamic and interactive experience.
-2. Tailwind CSS – Ensures a sleek and responsive design.
+2. Tailwind – Ensures a sleek and responsive design.
