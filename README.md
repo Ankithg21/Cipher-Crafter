@@ -11,5 +11,5 @@ This is a React.js and Tailwind CSS based Password Generator that allows users t
 🔹 Live Preview – Password updates instantly as options are adjusted.
 
 # Tech Stack:
-React.js – Provides a dynamic and interactive experience.
-Tailwind CSS – Ensures a sleek and responsive design.
+1. React.js – Provides a dynamic and interactive experience.
+2. Tailwind CSS – Ensures a sleek and responsive design.
